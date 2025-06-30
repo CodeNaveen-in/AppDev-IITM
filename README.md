@@ -1,4 +1,4 @@
-# 🛠️ AppDev-IITM: MAD1 — Modern Application Development
+# Modern Application Development Course 
 
 Welcome to my organized repository for the **Modern Application Development (MAD1)** course at **IIT Madras (Diploma in Programming track)**. This is where I keep my course notes, GRPA solutions, and code experiments as I explore the art and science of building modern, responsive web apps.
 
@@ -28,7 +28,10 @@ The tech stack used is that of the course:
 
 ## ⚠️ Usage Guidelines
 
-> 🧭 The solutions in this repo are intended **for reference only**.  
-> ✅ It's recommended that you **attempt the assignments yourself first** before consulting any solutions here.  
-> 🧪 These implementations may not always be optimal or efficient, but they offer a **starting point** for learning and iteration.  
-> 🏫 This repository is **not affiliated** with **IIT Madras** or the **Diploma in Programming** program. All content is authored by the repository owner and contributors.
+🧭 The solutions in this repo are intended **for reference only**.  
+✅ It's recommended that you **attempt the assignments yourself first** before consulting any solutions here.  
+🧪 These implementations may not always be optimal or efficient, but they offer a **starting point** for learning and iteration.  
+🏫 This repository is **not affiliated** with **IIT Madras** or the **Diploma in Programming** program. 
+
+It is just a compilation of the experince while learning the course.
+All content is authored by the repository owner.
