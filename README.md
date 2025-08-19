@@ -1,12 +1,19 @@
 # Modern Application Development Course 
 
-Welcome to my organized repository for the **Modern Application Development (MAD1)** course at **IIT Madras (Diploma in Programming track)**. This is where I keep my course notes, GRPA solutions, and code experiments as I explore the art and science of building modern, responsive web apps.
+Welcome to my organized repository for the **Modern Application Development (MAD1)** course at **IIT Madras (Diploma in Programming track)**. 
+
+This is where I keep my course notes, GRPA solutions, and code experiments as I explore the art and science of building modern, responsive web apps.
 
 🖥️ To clone the repo to your local machine:
 
 ```bash
 git clone https://github.com/CodeNaveen-in/AppDev-IITM.git
 ```
+
+## 📓 Prime Resource
+The prime resource for the subjects would be the Repo by [Shri Krishna Sir](https://github.com/shrikrishna97/Resources-App-Dev) 
+
+Don't forget to check it out!
 
 ## 📚 Contents
 
